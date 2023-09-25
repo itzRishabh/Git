@@ -22,7 +22,7 @@
       📚 Committed to staying at the forefront of industry trends and emerging technologies.
       🌱 Actively pursuing professional development, including contributions to open-source projects and knowledge expansion in areas like cryptocurrency, metaverse, and DAOs.
 
-### Favourite Stack
+### Technology Stack
 <img align="left" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img align="left" alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img align="left" alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge" />
